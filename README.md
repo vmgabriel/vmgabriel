@@ -99,10 +99,7 @@
 
 <h3>:heavy_check_mark: My Stats</h3>
 
-<div "id"="stats">
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmgabriel&theme=dark&background=000000" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vmgabriel&theme=dark&background=000000" />
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmgabriel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmgabriel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
