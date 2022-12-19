@@ -35,7 +35,7 @@
     <h3>About Me</h3>
     <ul>
         <li>
-            I'm from Colombian <span class="fi fi-co">
+            I'm from Colombia <span class="fi fi-co">
         </li>
         <li>
             I :heart: The Programming
