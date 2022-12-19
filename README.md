@@ -32,7 +32,7 @@
 <h1></h1>
 
 <div id="about">
-    <h2>:man: About Me</h2>
+    <h3>:man: About Me</h3>
     <ul>
         <li>
             I'm from Colombia <span class="fi fi-co">
@@ -64,7 +64,7 @@
 <h1></h1>
 
 
-<h2>:briefcase: Technologies and Tools</h2>
+<h3>:briefcase: Technologies and Tools</h3>
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -95,3 +95,14 @@
 </div>
 
 <h1></h1>
+
+
+<h3>:heavy_check_mark: My Stats</h3>
+
+<div "id"="stats">
+
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmgabriel&theme=dark&background=000000" />
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmgabriel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
