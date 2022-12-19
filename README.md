@@ -3,16 +3,18 @@
   href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"
 />
 <div id="header" align="center">
-    <a style="position: relative;width: 5em;height: 5em;padding: 13px;margin-top: 50px;display:flex;justify-content:center;background-color:#829aa0;border-radius:100%">
-        <img alt="imagen logo" src="https://vmgabriel.com/images/avatar.png", style="position: absolute; max-width: 8em; margin-top: -1em; border-radius: 100%;">
+    <a>
+        <img alt="imagen logo" src="https://vmgabriel.com/images/avatar.png" width="100">
     </a>
-    <p style="font-family: ubuntu; font-size: 19px; line-height: 0.5; letter-spacing: 0.059em; font-weight: 500; margin-top: 0.2em;color: #43655a;margin-top: 1em;">
+    <h1>
     Gabriel Vargas Monroy
-    </p>
-    <p style="margin-bottom: 2em;">
+    </h1>
+    <h4>
         Software Engineer | Python | Typescript/Javascript | Elixir
-    </p>
+    </h4>
+    <h1></h1>
 </div>
+
 
 <div id="socials" style="display:flex; justify-content: center;margin-bottom: 2em;" align="center">
     <a href="https://vmgabriel.com">
@@ -33,7 +35,7 @@
     <h3>About Me</h3>
     <ul>
         <li>
-            I'm from Colombian 
+            I'm from Colombian <span class="fi fi-co">
         </li>
         <li>
             I :heart: The Programming
@@ -51,7 +53,7 @@
             I :heart: BackEnd/Optimizations
         </li>
         <li>
-            I :heart: Crafted Beer :beer: :beer:
+            I :heart: Craft Beer :beer: :beer:
         </li>
         <li>
             I :heart: Music
